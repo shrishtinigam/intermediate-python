@@ -36,7 +36,7 @@ Ensure that you have a solid understanding of the following topics before diving
 
 
 
-\* This might be considered an advanced topic, but the absence of this knowledge can cause great grief for a beginner programmer. Nevertheless, I will cover it in a future notebook.
+\* This might be considered an intermediate topic, but the absence of this knowledge can cause great grief for a beginner programmer. Nevertheless, I will cover it in a future notebook.
 
 
 Please note that a lot of the information in these notebooks is adapted from different sources, which I will link as appropriate. I have tried my best to diligently check that all the information and code is up to date, accurate, readable, and usable. Please reach out to me with any questions or corrections.
