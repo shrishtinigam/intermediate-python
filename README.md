@@ -1,6 +1,20 @@
 # intermediate-python
 Curated python notebooks delving into singular intermediate python topics, providing clarity and reusable template code. Designed for beginner python developers.
 
+* Comprehensions
+* Lambda
+* Collections Module
+* Map and Filter
+* *args and **kwargs
+* Inheritance
+* Advanced Class Behavior
+* PIP/Package managers
+* Environments
+* Module Creation
+* Async I/O
+* Efficient Python Code
+* Efficient Pandas Code
+
 ## pre-requisites
 Ensure that you have a solid understanding of the following topics before diving into these notebooks. (Adapted from this [video](https://www.youtube.com/watch?v=p15xzjzR9j0))
 
