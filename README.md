@@ -15,6 +15,9 @@ Curated python notebooks delving into singular intermediate python topics, provi
 * Efficient Python Code
 * Efficient Pandas Code
 
+## recommended books
+* Python One-Liners by Christian Mayer ([Link](https://someplace-else.neocities.org/books/Python%20One-Liners%20-%20Write%20Concise,%20Eloquent%20Python%20Like%20a%20Professional.pdf))
+
 ## pre-requisites
 Ensure that you have a solid understanding of the following topics before diving into these notebooks. (Adapted from this [video](https://www.youtube.com/watch?v=p15xzjzR9j0))
 
