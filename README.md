@@ -4,7 +4,7 @@ Curated python notebooks delving into singular intermediate python topics, provi
 * Comprehensions
 * Lambda
 * Collections Module
-* Map and Filter
+* Map, Filter, zip
 * *args and **kwargs
 * Inheritance
 * Advanced Class Behavior
